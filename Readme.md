@@ -5,7 +5,7 @@
 SVM HyperPlane Classifier Example with C(Regularisation Parameter) = 10 :<br>
 Plotting the data points and SVM generated hyperplane...<br>
 <br>
-<img src="https://user-images.githubusercontent.com/46626425/67854944-6fdc6a80-fb37-11e9-80bf-da3c86d5dba7.png"/>
+<img src="https://user-images.githubusercontent.com/46626425/67855994-9bf8eb00-fb39-11e9-89aa-ef55a47e203d.png"/>
 
 Apply this model on Breast Cancer DataSet with different C and Gamma Values:
 <br>

@@ -35,7 +35,7 @@ def SVM_Example():
     ax.scatter(Model.support_vectors_[:, 0], Model.support_vectors_[:, 1], s=300,
                linewidth=1, facecolors='none', edgecolors='k')
     plt.show()
-    plt.savefig("yay.png")
+
 SVM_Example()
 
 print("Apply this model on Breast Cancer DataSet with different C and Gamma Values:\nWe Have our DataSet as :\n")
