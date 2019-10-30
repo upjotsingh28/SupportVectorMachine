@@ -17,7 +17,7 @@ We Have our DataSet as :
 <br>
 Applying GridSearch for getting best params for SVM Model.<br>
 <br>
-Fitting 3 folds for each of 25 candidates, totalling 75 fits
+Fitting 3 folds for each of 25 candidates, totalling 75 fits<br>
 [CV] C=0.1, gamma=1 ..................................................<br>
 [Parallel(n_jobs=1)]: Using backend SequentialBackend with 1 concurrent workers.<br>
 [Parallel(n_jobs=1)]: Done   1 out of   1 | elapsed:    0.0s remaining:    0.0s<br>
