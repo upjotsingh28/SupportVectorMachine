@@ -179,16 +179,9 @@ Applying this parameters onto our Model, We got Confusion Matrix :<br>
 [ [136   5]<br>
  [  2 238] ]<br> 
 <br>
-Classification Report :
-
-
-               precision    recall  f1-score   support
-
-           0       0.99      0.96      0.97       141
-           1       0.98      0.99      0.99       240
-&npsb;&npsb;micro avg&npsb;0.98&npsb;0.98&npsb;0.98&npsb;381<br>
-&npsb;&npsb;macro avg&npsb;0.98&npsb;0.98&npsb;0.98&npsb;381<br>
-&npsb;&npsb;weighted avg&npsb;0.98&npsb;0.98&npsb;0.98&npsb;381<br>
+Classification Report :<br>
+<br>
+<img src="https://user-images.githubusercontent.com/46626425/67856421-833d0500-fb3a-11e9-912f-a50546430e42.png"/>
 
 ##### Thank You
 
